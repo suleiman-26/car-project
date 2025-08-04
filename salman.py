@@ -72,7 +72,7 @@ class car:
         self.maringi=maringi
     def asas(self):
          print(f"{self.rangi} {self.maringi}")
-z1=car("pink","manne")
+z1=car("black","manne")
 z1.asas()
         
         
